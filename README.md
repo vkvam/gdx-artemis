@@ -1,6 +1,6 @@
 ## Summary
 
-This is a fork of [fork](https://github.com/apotapov/gdx-artemis) adapted for use by https://github.com/vkvam/lime
+This is a fork of [gdx-artemis](https://github.com/apotapov/gdx-artemis) adapted for use by [lime](https://github.com/vkvam/lime)
 
 ## Description
 
